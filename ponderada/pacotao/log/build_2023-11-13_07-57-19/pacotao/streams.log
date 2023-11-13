@@ -1,0 +1,38 @@
+[0.620s] Invoking command in '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao': PYTHONPATH=/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/prefix_override:/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/pacotao build --build-base /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build install --record /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/install.log --single-version-externally-managed
+[0.761s] running egg_info
+[0.761s] creating build/pacotao/pacotao.egg-info
+[0.762s] writing build/pacotao/pacotao.egg-info/PKG-INFO
+[0.762s] writing dependency_links to build/pacotao/pacotao.egg-info/dependency_links.txt
+[0.762s] writing entry points to build/pacotao/pacotao.egg-info/entry_points.txt
+[0.762s] writing requirements to build/pacotao/pacotao.egg-info/requires.txt
+[0.762s] writing top-level names to build/pacotao/pacotao.egg-info/top_level.txt
+[0.762s] writing manifest file 'build/pacotao/pacotao.egg-info/SOURCES.txt'
+[0.763s] reading manifest file 'build/pacotao/pacotao.egg-info/SOURCES.txt'
+[0.764s] writing manifest file 'build/pacotao/pacotao.egg-info/SOURCES.txt'
+[0.764s] running build
+[0.764s] running build_py
+[0.764s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build
+[0.764s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib
+[0.764s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib/pacotao
+[0.764s] copying pacotao/trajeto.py -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib/pacotao
+[0.764s] copying pacotao/__init__.py -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib/pacotao
+[0.764s] running install
+[0.766s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.766s]   warnings.warn(
+[0.766s] running install_lib
+[0.766s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao
+[0.766s] copying /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib/pacotao/trajeto.py -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao
+[0.766s] copying /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build/lib/pacotao/__init__.py -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao
+[0.767s] byte-compiling /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao/trajeto.py to trajeto.cpython-310.pyc
+[0.767s] byte-compiling /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao/__init__.py to __init__.cpython-310.pyc
+[0.767s] running install_data
+[0.767s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/share/ament_index
+[0.767s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/share/ament_index/resource_index
+[0.768s] creating /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/share/ament_index/resource_index/packages
+[0.768s] copying resource/pacotao -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/share/ament_index/resource_index/packages
+[0.768s] copying package.xml -> /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/share/pacotao
+[0.768s] running install_egg_info
+[0.769s] Copying build/pacotao/pacotao.egg-info to /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao-0.0.0-py3.10.egg-info
+[0.769s] running install_scripts
+[0.783s] writing list of installed files to '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/install.log'
+[0.799s] Invoked command in '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao' returned '0': PYTHONPATH=/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/prefix_override:/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/pacotao build --build-base /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build install --record /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/install.log --single-version-externally-managed

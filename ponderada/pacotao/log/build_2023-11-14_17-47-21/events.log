@@ -1,0 +1,176 @@
+[0.000000] (-) TimerEvent: {}
+[0.000482] (pacotao) JobQueued: {'identifier': 'pacotao', 'dependencies': OrderedDict()}
+[0.001493] (pacotao) JobStarted: {'identifier': 'pacotao'}
+[0.198380] (-) TimerEvent: {}
+[0.299195] (-) TimerEvent: {}
+[0.400006] (-) TimerEvent: {}
+[0.500777] (-) TimerEvent: {}
+[0.601303] (-) TimerEvent: {}
+[0.701847] (-) TimerEvent: {}
+[0.802228] (-) TimerEvent: {}
+[0.902608] (-) TimerEvent: {}
+[1.003465] (-) TimerEvent: {}
+[1.108540] (-) TimerEvent: {}
+[1.209389] (-) TimerEvent: {}
+[1.310253] (-) TimerEvent: {}
+[1.411111] (-) TimerEvent: {}
+[1.511927] (-) TimerEvent: {}
+[1.612739] (-) TimerEvent: {}
+[1.713568] (-) TimerEvent: {}
+[1.814352] (-) TimerEvent: {}
+[1.915178] (-) TimerEvent: {}
+[2.015947] (-) TimerEvent: {}
+[2.116685] (-) TimerEvent: {}
+[2.217460] (-) TimerEvent: {}
+[2.318221] (-) TimerEvent: {}
+[2.418998] (-) TimerEvent: {}
+[2.519739] (-) TimerEvent: {}
+[2.620483] (-) TimerEvent: {}
+[2.721352] (-) TimerEvent: {}
+[2.822143] (-) TimerEvent: {}
+[2.922893] (-) TimerEvent: {}
+[3.023748] (-) TimerEvent: {}
+[3.124608] (-) TimerEvent: {}
+[3.225437] (-) TimerEvent: {}
+[3.326227] (-) TimerEvent: {}
+[3.426996] (-) TimerEvent: {}
+[3.527770] (-) TimerEvent: {}
+[3.628513] (-) TimerEvent: {}
+[3.729241] (-) TimerEvent: {}
+[3.856994] (-) TimerEvent: {}
+[3.957706] (-) TimerEvent: {}
+[4.058482] (-) TimerEvent: {}
+[4.159251] (-) TimerEvent: {}
+[4.266353] (-) TimerEvent: {}
+[4.382335] (-) TimerEvent: {}
+[4.493232] (-) TimerEvent: {}
+[4.622610] (-) TimerEvent: {}
+[4.742605] (-) TimerEvent: {}
+[4.843329] (-) TimerEvent: {}
+[4.944073] (-) TimerEvent: {}
+[5.044813] (-) TimerEvent: {}
+[5.145675] (-) TimerEvent: {}
+[5.246455] (-) TimerEvent: {}
+[5.347314] (-) TimerEvent: {}
+[5.448305] (-) TimerEvent: {}
+[5.550021] (-) TimerEvent: {}
+[5.650900] (-) TimerEvent: {}
+[5.751723] (-) TimerEvent: {}
+[5.852550] (-) TimerEvent: {}
+[5.953407] (-) TimerEvent: {}
+[6.054261] (-) TimerEvent: {}
+[6.155126] (-) TimerEvent: {}
+[6.255953] (-) TimerEvent: {}
+[6.356826] (-) TimerEvent: {}
+[6.457711] (-) TimerEvent: {}
+[6.558573] (-) TimerEvent: {}
+[6.659399] (-) TimerEvent: {}
+[6.760147] (-) TimerEvent: {}
+[6.860893] (-) TimerEvent: {}
+[6.961666] (-) TimerEvent: {}
+[7.063078] (-) TimerEvent: {}
+[7.163962] (-) TimerEvent: {}
+[7.264843] (-) TimerEvent: {}
+[7.365650] (-) TimerEvent: {}
+[7.478084] (-) TimerEvent: {}
+[7.586903] (-) TimerEvent: {}
+[7.687736] (-) TimerEvent: {}
+[7.788577] (-) TimerEvent: {}
+[7.889450] (-) TimerEvent: {}
+[7.991009] (-) TimerEvent: {}
+[8.091814] (-) TimerEvent: {}
+[8.192632] (-) TimerEvent: {}
+[8.293481] (-) TimerEvent: {}
+[8.394345] (-) TimerEvent: {}
+[8.495188] (-) TimerEvent: {}
+[8.596049] (-) TimerEvent: {}
+[8.696908] (-) TimerEvent: {}
+[8.797778] (-) TimerEvent: {}
+[8.898649] (-) TimerEvent: {}
+[8.999440] (-) TimerEvent: {}
+[9.100180] (-) TimerEvent: {}
+[9.200955] (-) TimerEvent: {}
+[9.301789] (-) TimerEvent: {}
+[9.402572] (-) TimerEvent: {}
+[9.503384] (-) TimerEvent: {}
+[9.604207] (-) TimerEvent: {}
+[9.705083] (-) TimerEvent: {}
+[9.805924] (-) TimerEvent: {}
+[9.906789] (-) TimerEvent: {}
+[10.007618] (-) TimerEvent: {}
+[10.108458] (-) TimerEvent: {}
+[10.209309] (-) TimerEvent: {}
+[10.312206] (-) TimerEvent: {}
+[10.413058] (-) TimerEvent: {}
+[10.513898] (-) TimerEvent: {}
+[10.614763] (-) TimerEvent: {}
+[10.715575] (-) TimerEvent: {}
+[10.816400] (-) TimerEvent: {}
+[10.917113] (-) TimerEvent: {}
+[11.017899] (-) TimerEvent: {}
+[11.057377] (pacotao) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/pacotao', 'build', '--build-base', '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/build', 'install', '--record', '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/install.log', '--single-version-externally-managed'], 'cwd': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'pt:pt_BR:en', 'USER': 'felipeleao', 'LC_TIME': 'pt_BR.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/felipeleao', 'OLDPWD': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/launch', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'pt_BR.UTF-8', 'SYSTEMD_EXEC_PID': '1603', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'felipeleao', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'felipeleao', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/felipeleao/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/felipeleao-Latitude-5420:@/tmp/.ICE-unix/1576,unix/felipeleao-Latitude-5420:/tmp/.ICE-unix/1576', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'pt_BR.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/e1c8e619_aa21_4b1e_a2b6_6178377ddfb5', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'pt_PT.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'pt_BR.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.RETGE2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.88', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'pt_BR.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'pt_BR.UTF-8', 'LC_IDENTIFICATION': 'pt_BR.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao', 'TURTLEBOT3_MODEL': 'burger', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/prefix_override:/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages:/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'pt_BR.UTF-8', 'LC_PAPER': 'pt_BR.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[11.117995] (-) TimerEvent: {}
+[11.218813] (-) TimerEvent: {}
+[11.319664] (-) TimerEvent: {}
+[11.420482] (-) TimerEvent: {}
+[11.521305] (-) TimerEvent: {}
+[11.622139] (-) TimerEvent: {}
+[11.722997] (-) TimerEvent: {}
+[11.823816] (-) TimerEvent: {}
+[11.924615] (-) TimerEvent: {}
+[12.025441] (-) TimerEvent: {}
+[12.126198] (-) TimerEvent: {}
+[12.228198] (-) TimerEvent: {}
+[12.329025] (-) TimerEvent: {}
+[12.429837] (-) TimerEvent: {}
+[12.530957] (-) TimerEvent: {}
+[12.632157] (-) TimerEvent: {}
+[12.733003] (-) TimerEvent: {}
+[12.833843] (-) TimerEvent: {}
+[12.934679] (-) TimerEvent: {}
+[13.035486] (-) TimerEvent: {}
+[13.136307] (-) TimerEvent: {}
+[13.237115] (-) TimerEvent: {}
+[13.337945] (-) TimerEvent: {}
+[13.442357] (-) TimerEvent: {}
+[13.543225] (-) TimerEvent: {}
+[13.644048] (-) TimerEvent: {}
+[13.744896] (-) TimerEvent: {}
+[13.845717] (-) TimerEvent: {}
+[13.946574] (-) TimerEvent: {}
+[13.968239] (pacotao) StdoutLine: {'line': b'running egg_info\n'}
+[13.970774] (pacotao) StdoutLine: {'line': b'writing build/pacotao/pacotao.egg-info/PKG-INFO\n'}
+[14.035250] (pacotao) StdoutLine: {'line': b'writing dependency_links to build/pacotao/pacotao.egg-info/dependency_links.txt\n'}
+[14.037271] (pacotao) StdoutLine: {'line': b'writing entry points to build/pacotao/pacotao.egg-info/entry_points.txt\n'}
+[14.042983] (pacotao) StdoutLine: {'line': b'writing requirements to build/pacotao/pacotao.egg-info/requires.txt\n'}
+[14.044836] (pacotao) StdoutLine: {'line': b'writing top-level names to build/pacotao/pacotao.egg-info/top_level.txt\n'}
+[14.046632] (-) TimerEvent: {}
+[14.053521] (pacotao) StdoutLine: {'line': b"reading manifest file 'build/pacotao/pacotao.egg-info/SOURCES.txt'\n"}
+[14.076340] (pacotao) StdoutLine: {'line': b"writing manifest file 'build/pacotao/pacotao.egg-info/SOURCES.txt'\n"}
+[14.078544] (pacotao) StdoutLine: {'line': b'running build\n'}
+[14.080024] (pacotao) StdoutLine: {'line': b'running build_py\n'}
+[14.081500] (pacotao) StdoutLine: {'line': b'running install\n'}
+[14.142708] (pacotao) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[14.143017] (pacotao) StderrLine: {'line': b'  warnings.warn(\n'}
+[14.146717] (-) TimerEvent: {}
+[14.150360] (pacotao) StdoutLine: {'line': b'running install_lib\n'}
+[14.152364] (pacotao) StdoutLine: {'line': b'running install_data\n'}
+[14.170481] (pacotao) StdoutLine: {'line': b'running install_egg_info\n'}
+[14.186393] (pacotao) StdoutLine: {'line': b"removing '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[14.203015] (pacotao) StdoutLine: {'line': b'Copying build/pacotao/pacotao.egg-info to /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/python3.10/site-packages/pacotao-0.0.0-py3.10.egg-info\n'}
+[14.246840] (-) TimerEvent: {}
+[14.250842] (pacotao) StdoutLine: {'line': b'running install_scripts\n'}
+[14.346954] (-) TimerEvent: {}
+[14.447519] (-) TimerEvent: {}
+[14.548077] (-) TimerEvent: {}
+[14.648605] (-) TimerEvent: {}
+[14.679223] (pacotao) StdoutLine: {'line': b'Installing trajeto script to /home/felipeleao/Ponderadas-progM8/ponderada/pacotao/install/pacotao/lib/pacotao\n'}
+[14.694166] (pacotao) StdoutLine: {'line': b"writing list of installed files to '/home/felipeleao/Ponderadas-progM8/ponderada/pacotao/build/pacotao/install.log'\n"}
+[14.748714] (-) TimerEvent: {}
+[14.849455] (-) TimerEvent: {}
+[14.950331] (-) TimerEvent: {}
+[14.961639] (pacotao) CommandEnded: {'returncode': 0}
+[15.058380] (-) TimerEvent: {}
+[15.161038] (-) TimerEvent: {}
+[15.201978] (pacotao) JobEnded: {'identifier': 'pacotao', 'rc': 0}
+[15.205853] (-) EventReactorShutdown: {}

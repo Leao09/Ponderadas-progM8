@@ -43,4 +43,4 @@ streamlit run app.py
 - Neste arquivo temos a função manda_questao, que faz a conexão com a api do openai utilizando a sua Key, ela recebe como parametro a questão e realiza a busca utilizando o contexto inserido. Ela possui outras duas funções uma responsável por receber a resposta e outra chamada get_info, para pegar a informação da resposta. Por fim, temos uma função parcial que será utilizada no script app.py que utiliza a função get_info e define o parâmetro que será passado da pergunta para que o output seja definido conforme as preferências da resposta.
 
 # Demonstração
-[Link]()
+[Link](https://youtu.be/HRvzLfnxNDk)

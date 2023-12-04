@@ -6,7 +6,7 @@ git clone https://github.com/Leao09/Ponderadas-progM8.git
 </code></pre>
 - Em seguida é necessário entrar na pastas no qual o código está
 <pre><code>
-cd Poderadas-progM8/ponderada4
+cd Poderadas-progM8/ponderada5
 </code></pre>
 - Assim, você deve criar um ambiente virtual para realizar as intalações de dependêcias e executar o código, por definição utilizaremos o miniconda que é uma versão menor. O comando para instalação:
 <pre><code>
